@@ -238,9 +238,9 @@
 			buildConfigurationList = D716CB4C1C23A58700D89B5C /* Build configuration list for PBXNativeTarget "MMDB-iOS" */;
 			buildPhases = (
 				366F5FDD1F05152C00DE3883 /* ShellScript */,
+				D716CB441C23A58700D89B5C /* Headers */,
 				D716CB421C23A58700D89B5C /* Sources */,
 				D716CB431C23A58700D89B5C /* Frameworks */,
-				D716CB441C23A58700D89B5C /* Headers */,
 				D716CB451C23A58700D89B5C /* Resources */,
 			);
 			buildRules = (
@@ -257,9 +257,9 @@
 			buildConfigurationList = D716CB591C23A5DC00D89B5C /* Build configuration list for PBXNativeTarget "MMDB-OSX" */;
 			buildPhases = (
 				366F5FDE1F0515CD00DE3883 /* ShellScript */,
+				D716CB511C23A5DC00D89B5C /* Headers */,
 				D716CB4F1C23A5DC00D89B5C /* Sources */,
 				D716CB501C23A5DC00D89B5C /* Frameworks */,
-				D716CB511C23A5DC00D89B5C /* Headers */,
 				D716CB521C23A5DC00D89B5C /* Resources */,
 			);
 			buildRules = (
